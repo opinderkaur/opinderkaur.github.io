@@ -48,15 +48,15 @@ Research Experience
 Teaching Experience
 ======
 * **Instructor, UC Riverside** 
-** Labor Economics (Summer 2020)
-** Intermediate Microeconomics Theory II (Summer 2020)
-** Intermediate Microeconomics Theory I (Summer 2021)
+  * Labor Economics (Summer 2020)
+  * Intermediate Microeconomics Theory II (Summer 2020)
+  * Intermediate Microeconomics Theory I (Summer 2021)
 
 * **Teaching Assistant, UC Riverside**
-** Intermediate Microeconomics Theory I (Fall 2018, Summer 2019, Fall 2019, Winter 2021)
-** Introductory Econometrics (Spring 2019, Spring 2021)
-** Introduction to Microeconomics (Winter 2019, Spring 2022)
-** Introduction to Macroeconomics (Fall 2021, Winter 2022)
+  * Intermediate Microeconomics Theory I (Fall 2018, Summer 2019, Fall 2019, Winter 2021)
+  * Introductory Econometrics (Spring 2019, Spring 2021)
+  * Introduction to Microeconomics (Winter 2019, Spring 2022)
+  * Introduction to Macroeconomics (Fall 2021, Winter 2022)
   
 Professional Experience
 ======
