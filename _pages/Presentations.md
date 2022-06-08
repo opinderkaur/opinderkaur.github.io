@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Presentations"
-permalink: /talks/
+permalink: /presentations/
 author_profile: true
 redirect_from:
-  - /talks
+  - /presentations
 ---
 
 {% include base_path %}
