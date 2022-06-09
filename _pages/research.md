@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* ["Intergenerational Health Effects of Adult Literacy Programs: Evidence from India"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120022)
+* [Intergenerational Health Effects of Adult Literacy Programs: Evidence from India](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120022)
    
     **Abstract**
 
