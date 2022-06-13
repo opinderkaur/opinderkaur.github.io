@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : <meta name="google-site-verification" content="bLJ84Cq79QKmpHgl2jAd-_cBrwtDiEoXxuGuikK-Ou4" />
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -72,14 +72,22 @@ social:
 
 
 # Analytics
-analytics:
+analytics: <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y09DZD6RFJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y09DZD6RFJ');
+</script>
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
-author:
+author: "Opinder Kaur"
   name             : "Opinder Kaur"
   avatar           : "profile.png"
   bio              : "PhD Candidate Economics"
