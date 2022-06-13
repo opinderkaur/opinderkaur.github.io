@@ -23,4 +23,4 @@ author_profile: true
 
 * [Does Certification Increased the Returns to Human Capital? A Field Experiment in India](https://www.povertyactionlab.org/initiative-project/does-certification-increase-returns-human-capital-field-experiment-india) (with Sarojini Hirshleifer and Deepshikha Batheja)
 
-  Funded by: J-PAL Post-Primary Education Fund
+  *Funded by: J-PAL Post-Primary Education Fund*
