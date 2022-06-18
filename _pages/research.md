@@ -18,7 +18,7 @@ author_profile: true
 
     I estimate the impact of a large-scale adult literacy program on child health. Beginning in 2009, the government of India phased in a literacy campaign targeting rural women in districts with an adult female literacy rate of 50 percent or below. I exploit this eligibility threshold in a regression discontinuity design. Using variation around the cutoff, I find mothers eligible for the program have less malnourished children, likely driven by increased labor force participation of mothers and a diverse diet intake for their children. I do not find evidence for changes in fertility behavior and utilization of healthcare services through which literacy programs might affect child health. The results translate to a large social gain induced by favorable child health outcomes, suggesting additional scope for well-designed adult literacy programs in developing countries to raise overall welfare.
    
-* Teacher Value Added Spillovers on Non-cognitive Abilities
+* Teacher Value-Added Spillovers: How Far They Transcend?
 
 * [Does Certification Increased the Returns to Human Capital? A Field Experiment in India](https://www.povertyactionlab.org/initiative-project/does-certification-increase-returns-human-capital-field-experiment-india) (with Sarojini Hirshleifer and Deepshikha Batheja)
 *Funded by: J-PAL Post-Primary Education Fund*
