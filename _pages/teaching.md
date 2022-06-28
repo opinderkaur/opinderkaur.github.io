@@ -18,4 +18,4 @@ author_profile: true
   * Introduction to Microeconomics (Winter 2019, Spring 2022)
   * Introduction to Macroeconomics (Fall 2021, Winter 2022)
 
-* *Outstanding Teaching Assistant Award (2019)*
+* [Outstanding Teaching Assistant Award (2019)](https://economics.ucr.edu/wp-content/uploads/2020/10/UCR-Econ-Newsletter-9-2020.pdf)
