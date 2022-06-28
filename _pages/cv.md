@@ -20,7 +20,8 @@ Education
 
 Research Fields
 ======
-* Labor Economics, Economics of Education, Development Economics, Health Economics, and Econometrics
+* Primary Fields: Labor Economics, Economics of Education
+* Secondary Fields: Development Economics, Health Economics
   
 Awards and Honors
 ======
