@@ -17,3 +17,5 @@ author_profile: true
   * Introductory Econometrics (Spring 2019, Spring 2021)
   * Introduction to Microeconomics (Winter 2019, Spring 2022)
   * Introduction to Macroeconomics (Fall 2021, Winter 2022)
+
+* *Outstanding Teaching Assistant Award in Economics Department*
