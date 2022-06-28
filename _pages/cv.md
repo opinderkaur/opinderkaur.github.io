@@ -70,8 +70,8 @@ Professional Experience
 Presentations
 ======
 * 2022: Western Economic Association International Graduate Student Workshop
-* 2021: CEGA-Berkley
 * 2021: American Society of Health Economics
+* 2021: CEGA-Berkeley
 * 2021: Western Economic Association International
 * 2021: Eastern Economic Association
 * 2021: Midwestern Economic Association
