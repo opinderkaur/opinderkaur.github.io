@@ -18,4 +18,4 @@ author_profile: true
   * Introduction to Microeconomics (Winter 2019, Spring 2022)
   * Introduction to Macroeconomics (Fall 2021, Winter 2022)
 
-* *Outstanding Teaching Assistant Award in Economics Department*
+* *Outstanding Teaching Assistant Award (2019)*
