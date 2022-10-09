@@ -45,8 +45,7 @@
   }
 
   img {
-    max-width: 200px;
-    border-radius: 0%;
+    width: 100%;
   }
 }
 
@@ -59,8 +58,6 @@
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
-    padding: 0px;
-    border: 0px solid $border-color; 
   }
 
   @include breakpoint($x-large) {
@@ -75,9 +72,9 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 200px;
   // set width only, for non-square avatars
-  // height: 36px;
+  height: 400px;
 
   @include breakpoint($large) {
     display: block;
@@ -86,8 +83,8 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px;
+    border-radius: 0%;
 
     @include breakpoint($large) {
       padding: 5px;
