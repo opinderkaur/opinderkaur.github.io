@@ -83,13 +83,13 @@ analytics:
 author: 
   name             : "Opinder Kaur"
   avatar           : "profile.png"
-  bio              : "PhD Candidate Economics"
-  location         : "Riverside, California"
-  employer         : "UC, Riverside"
+  #bio              : "PhD Candidate Economics"
+  #location         : "Riverside, California"
+  #employer         : "UC, Riverside"
   pubmed           : 
   googlescholar    :
-  email            : "okaur001@ucr.edu"
-  researchgate     : "https://www.researchgate.net/profile/Opinder-Kaur-2"
+  #email            : "okaur001@ucr.edu"
+  #researchgate     : "https://www.researchgate.net/profile/Opinder-Kaur-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,21 +97,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "opinderkaur"
+  #github           : "opinderkaur"
   google_analytics : "G-Y09DZD6RFJ"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/opinderkaur"
-  orcid            : "http://orcid.org/0000-0003-0366-7460"
+  #linkedin         : "/opinderkaur"
+  #orcid            : "http://orcid.org/0000-0003-0366-7460"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "opinderkaur7"
+  #twitter          : "opinderkaur7"
   vine             :
   weibo            :
   xing             :
