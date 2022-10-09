@@ -45,7 +45,8 @@
   }
 
   img {
-    width: 100%;
+    max-width: 200px;
+    border-radius: 0%;
   }
 }
 
@@ -58,6 +59,8 @@
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
+    padding: 0px;
+    border: 0px solid $border-color; 
   }
 
   @include breakpoint($x-large) {
