@@ -15,13 +15,11 @@ redirect_from:
 <!--Prior to coming to UCR in 2017, I completed my Master’s in Economics in India. I worked with think tanks and government research organizations as well.--> 
 
 
-Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://economics.ucr.edu).
+Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://economics.ucr.edu). My research interest areas are labor economics and development economics. For more information, please see my [CV](/files/CV_Opinder_Kaur.pdf).
 
-My research interest areas are labor economics and development economics.
 
 I am on the job market in the academic year 2022-2023, and will be available for interviews.
 
-For more information, please see my [CV](/files/CV_Opinder_Kaur.pdf).
 
 <!--Quick links: [CV](/files/CV_Opinder_Kaur.pdf)--> 
 <!--[Job Market Paper](/files/JMP_Opinder_Kaur.pdf)--> 
