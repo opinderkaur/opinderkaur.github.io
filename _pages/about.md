@@ -23,7 +23,5 @@ My research interest areas are labor economics and development economics.
 I will be on the job market in the academic year 2022-2023, and I am available for interviews at the EEA and ASSA meetings.
 
 
-You can find my CV here.
-
-Link to my JMP.
+Quick links: CV    Job Market Paper
 
