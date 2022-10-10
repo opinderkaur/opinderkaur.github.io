@@ -24,7 +24,7 @@ I will be on the job market in the academic year 2022-2023, and I am available f
 
 
 Quick links: 
-[CV (pdf)](/files/CV_Opinder_Kaur.pdf)   
+[CV](/files/CV_Opinder_Kaur.pdf)   
 <!--[Job Market Paper](/files/JMP_Opinder_Kaur.pdf)--> 
 
 
