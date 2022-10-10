@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   #bio              : "PhD Candidate Economics"
   location         : "Riverside, California"
-  employer         : "UC, Riverside"
+  #employer         : "UC, Riverside"
   pubmed           : 
   googlescholar    :
   email            : "okaur001@ucr.edu"
