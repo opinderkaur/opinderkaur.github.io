@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV (pdf)](/files/CV_Opinder_Kaur.pdf)
+[CV](/files/CV_Opinder_Kaur.pdf)
 
 {% include base_path %}
 
