@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+<!-- title: "Research" -->
 permalink: /research/
 author_profile: true
 ---
@@ -13,7 +13,6 @@ author_profile: true
 {% include base_path %}
 
 # Working Papers
-## Work in Progress
 
 **Intergenerational Health Effects of Adult Literacy Programs: Evidence from India** [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120022)
  
@@ -25,5 +24,7 @@ I estimate the impact of a large-scale adult literacy program on child health. B
 We measure the impact of two main signals of tertiary-level human capital accumulation, college quality and certification, on the first stage of the hiring process in India. We send 18,000 resumes to 1500 job postings for recent engineering graduates across eight major cities.  We find no impact on callbacks of having graduated from a mid-tier college ranked in the top 300 relative to one outside of the top 1000. There is also no impact of scoring in the highest as opposed to the lowest quartile of a widely-used certification test. We do not find evidence of gender discrimination or heterogeneity by company characteristics.
  
 **Teacher Value-Added Spillovers: How Far They Transcend?**
- 
+
+# Work in Progress
+
 **Curriculum Reforms, Adult Health, and Mortality** (with Bahadir Dursun, Ozkan Eren and Erdal Tekin)
