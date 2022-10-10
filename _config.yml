@@ -83,7 +83,7 @@ analytics:
 author: 
   name             : "Opinder Kaur"
   avatar           : "profile.png"
-  bio              : "PhD Candidate Economics"
+  #bio              : "PhD Candidate Economics"
   location         : "Riverside, California"
   employer         : "UC, Riverside"
   pubmed           : 
