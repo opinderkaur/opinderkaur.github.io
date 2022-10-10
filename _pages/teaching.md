@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+**Awards**
+  * Outstanding Teaching Assistant Award (2019)
+
 **Instructor, UC Riverside** 
   * Labor Economics (Summer 2020)
   * Intermediate Microeconomics Theory II (Summer 2020)
@@ -18,4 +21,4 @@ author_profile: true
   * Introduction to Microeconomics (Winter 2019, Spring 2022)
   * Introduction to Macroeconomics (Fall 2021, Winter 2022)
 
-**Outstanding Teaching Assistant Award (2019)**
+
