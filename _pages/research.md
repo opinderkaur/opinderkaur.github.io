@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
+# Working Papers
 
 **Intergenerational Health Effects of Adult Literacy Programs: Evidence from India** 
 
@@ -28,7 +28,7 @@ We measure the impact of two main signals of tertiary-level human capital accumu
  
 **Teacher Value-Added Spillovers: How Far They Transcend?**
 
-## Work in Progress
+# Work in Progress
 
 **Curriculum Reforms, Adult Health, and Mortality** (with Bahadir Dursun, Ozkan Eren and Erdal Tekin)
 
