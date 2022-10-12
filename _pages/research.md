@@ -28,6 +28,8 @@ We measure the impact of two main signals of tertiary-level human capital accumu
  
 **Teacher Value-Added Spillovers: How Far They Transcend?**
 
+Good teachers affect both the short- and long-term achievements of their students. Apart from influencing their own students, teachers may also have broader impacts by increasing the performance of future peers of their students. I quantify teacher effects on the students’ peers’ spillover in terms of the cognitive and non-cognitive skills of and longer-run outcomes. The identification comes from the natural transitions of students from multiple elementary schools into a single middle school. I find that the positive effect of teachers on their own students spills over to affect their students’ future peers with improved cognitive and non-cognitive outcomes in middle school and long-run outcomes in high school. Such unaccounted spillovers underestimate the true effectiveness of a teacher.
+
 # Work in Progress
 
 **Curriculum Reforms, Adult Health, and Mortality** (with Bahadir Dursun, Ozkan Eren and Erdal Tekin)
