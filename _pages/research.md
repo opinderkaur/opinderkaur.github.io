@@ -14,7 +14,7 @@ author_profile: true
 
 # Working Papers
 
-**Intergenerational Health Effects of Adult Learning Programs: Evidence from India** (Job Market Paper) 
+**Intergenerational Health Effects of Adult Learning Programs: Evidence from India** ([Job Market Paper](/files/JMP_Kaur2022.pdf)) 
 
 <!-- [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120022) -->
  
