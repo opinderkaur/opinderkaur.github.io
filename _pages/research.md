@@ -14,13 +14,13 @@ author_profile: true
 
 # Working Papers
 
-**Intergenerational Health Effects of Adult Literacy Programs: Evidence from India** (Job Market Paper) 
+**Intergenerational Health Effects of Adult Learning Programs: Evidence from India** (Job Market Paper) 
 
 <!-- [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120022) -->
  
-I estimate the impact of a large-scale adult literacy program on child health. Beginning in 2009, the government of India phased in a literacy campaign targeting rural women in districts with an adult female literacy rate of 50 percent or below. I exploit this eligibility threshold in a regression discontinuity design. Using variation around the cutoff, I find that children whose mothers are eligible for the program are less malnourished. The results are likely driven by increased labor force participation of mothers and a diverse diet intake for children. I do not find evidence for changes in fertility behavior and utilization of healthcare services through which literacy programs might affect child health. The results translate to a large social gain due to a fall in disease burden induced by favorable child health outcomes. This suggests additional scope for well-designed adult literacy programs in developing countries to raise overall welfare.
+I estimate the impact of a large-scale adult learning program on child health. Beginning in 2009, the government of India phased in an education campaign targeting rural women in districts with an adult female literacy rate of 50 percent or below. I exploit this eligibility threshold in a regression discontinuity design. Using variation around the cutoff, I find that children whose mothers are eligible for the program are less malnourished. The results are likely driven by increased labor force participation of mothers and a diverse diet intake for children. I do not find evidence for changes in fertility behavior and utilization of healthcare services. The results translate to a large social gain due to a fall in disease burden induced by favorable child health outcomes. 
    
-**Does signaling college quality matter? An experimental study in India** (with Sarojini Hirshleifer and Deepshikha Batheja)
+**Does signaling college quality matter? An experimental study in India** (with [Sarojini Hirshleifer](https://profiles.ucr.edu/app/home/profile/shirsh) and [Deepshikha Batheja](https://www.deepshikhabatheja.com))
 
 *Funded by: J-PAL Post-Primary Education Fund*
 
@@ -32,6 +32,6 @@ Good teachers affect both the short- and long-term achievements of their student
 
 # Work in Progress
 
-**Curriculum Reforms, Adult Health, and Mortality** (with Bahadir Dursun, Ozkan Eren and Erdal Tekin)
+**Curriculum Reforms, Adult Health, and Mortality** (with [Bahadir Dursun](https://sites.google.com/site/dursunbahadir/home), [Ozkan Eren](http://www.ozkaneren.com) and [Erdal Tekin](https://sites.google.com/view/etekin))
 
 *Status: Data Agreement in Progress*
