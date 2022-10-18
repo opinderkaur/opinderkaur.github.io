@@ -25,12 +25,10 @@ Welcome! I am a Ph.D. candidate in Economics at [University of California, River
 I am on the job market during the 2022–2023 academic year and expect to graduate in Spring 2023.
 
 
-[CV](/files/CV_Opinder_Kaur.pdf) 
-
-[Job Market Paper](/files/JMP_Opinder_Kaur.pdf)
+<!--[CV](/files/CV_Opinder_Kaur.pdf), [Job Market Paper](/files/JMP_Opinder_Kaur.pdf)-->
 
 
-<!--Quick links: [CV](/files/CV_Opinder_Kaur.pdf) | [Job Market Paper](/files/JMP_Opinder_Kaur.pdf)--> 
+Quick links: [CV](/files/CV_Opinder_Kaur.pdf) | [Job Market Paper](/files/JMP_Opinder_Kaur.pdf)
 
 
 
