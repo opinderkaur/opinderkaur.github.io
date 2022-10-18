@@ -28,7 +28,7 @@ I am on the job market during the 2022–2023 academic year and expect to gradua
 <!--[CV](/files/CV_Opinder_Kaur.pdf), [Job Market Paper](/files/JMP_Opinder_Kaur.pdf)-->
 
 
-Quick links: [CV](/files/CV_Opinder_Kaur.pdf) | [Job Market Paper](/files/JMP_Opinder_Kaur.pdf)
+Quick links: [CV](/files/CV_Opinder_Kaur.pdf), [Job Market Paper](/files/JMP_Opinder_Kaur.pdf)
 
 
 
