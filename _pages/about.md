@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!--I am a PhD candidate in the Economics Department at the [University of California, Riverside](https://economics.ucr.edu). I study the economics of education, with a particular interest in long-run effects and intergenerational transmission.--> 
+<!--I am a PhD candidate in the Economics Department at the [University of California, Riverside](https://economics.ucr.edu/graduate-program/graduate-students/). I study the economics of education, with a particular interest in long-run effects and intergenerational transmission.--> 
 
 <!--My research interest areas are Labor Economics, Economics of Education, Development Economics, Health Economics, and Econometrics.--> 
 
