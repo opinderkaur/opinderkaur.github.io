@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://economics.ucr.edu/). My research interests are in labor economics, development economics, economics of education, and health economics. 
 
-My job market paper investigates the intergenerational impacts of adult learning programs on child health outcomes among disadvantaged population. 
+My job market paper investigates the intergenerational impact of adult learning programs on child health outcomes among the disadvantaged population.
 
 I am on the job market during the 2022–2023 academic year and expect to graduate in Spring 2023.
 
