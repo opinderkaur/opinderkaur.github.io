@@ -8,6 +8,34 @@ redirect_from:
   - /about.html
 ---
 
+
+Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://economics.ucr.edu/). My research interests are in labor economics, development economics, economics of education, and health economics. 
+
+My job market paper investigates the intergenerational impacts of adult learning programs on child health outcomes among disadvantaged population. 
+
+I am on the job market during the 2022–2023 academic year and expect to graduate in Spring 2023.
+
+Quick links: [CV](/files/CV_Opinder_Kaur.pdf), [Job Market Paper](/files/JMP_Kaur2022.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--I am a PhD candidate in the Economics Department at the [University of California, Riverside](https://economics.ucr.edu/graduate-program/graduate-students/). I study the economics of education, with a particular interest in long-run effects and intergenerational transmission.--> 
 
 <!--My research interest areas are Labor Economics, Economics of Education, Development Economics, Health Economics, and Econometrics.--> 
@@ -22,13 +50,7 @@ redirect_from:
 
 
 
-Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://economics.ucr.edu/). My research interests are in labor economics, development economics, economics of education, and health economics. My job market paper investigates the intergenerational impacts of adult learning programs on child health outcomes among disadvantaged population. 
 
-
-I am on the job market during the 2022–2023 academic year and expect to graduate in Spring 2023.
-
-
-Quick links: [CV](/files/CV_Opinder_Kaur.pdf), [Job Market Paper](/files/JMP_Kaur2022.pdf)
 
 
 
