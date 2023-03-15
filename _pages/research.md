@@ -14,7 +14,11 @@ author_profile: true
 
 # Working Papers
 
-**Intergenerational Health Effects of Adult Learning Programs: Evidence from India** ([Job Market Paper](/files/JMP_Kaur2022.pdf)) 
+**Intergenerational Health Effects of Adult Learning Programs: Evidence from India**
+
+<!-- **Intergenerational Health Effects of Adult Learning Programs: Evidence from India** ([Job Market Paper](/files/JMP_Kaur2022.pdf)) -->
+
+
 
 <!-- [(Draft)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4120022) -->
  
@@ -35,8 +39,8 @@ We measure the impact of two main signals of tertiary-level human capital accumu
 
 *Status: Draft coming soon*
 
-# Work in Progress
+<!-- # Work in Progress  -->
 
-**Curriculum Reforms, Adult Health, and Mortality** (with [Bahadir Dursun](https://sites.google.com/site/dursunbahadir/home), [Ozkan Eren](http://www.ozkaneren.com) and [Erdal Tekin](https://sites.google.com/view/etekin))
+<!-- **Curriculum Reforms, Adult Health, and Mortality** (with [Bahadir Dursun](https://sites.google.com/site/dursunbahadir/home), [Ozkan Eren](http://www.ozkaneren.com) and [Erdal Tekin](https://sites.google.com/view/etekin)) -->
 
-*Status: Data agreement in progress*
+<!-- *Status: Data agreement in progress* -->
