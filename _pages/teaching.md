@@ -28,7 +28,7 @@ author_profile: true
 
 
 
- <-- ## Weblinks -->
-  <-- * Teaching evaluation summary is available [here](/files/TeachingEvaluationSummary_OpinderKaur.pdf).  -->
-  <-- * Original evaluation forms for all courses are available [here](https://drive.google.com/drive/folders/1jtncSyMbhygOT5mPAfEBoiCKSeVmBuu8?usp=sharing). -->
+<!-- ## Weblinks -->
+<!-- * Teaching evaluation summary is available [here](/files/TeachingEvaluationSummary_OpinderKaur.pdf).  -->
+<!-- * Original evaluation forms for all courses are available [here](https://drive.google.com/drive/folders/1jtncSyMbhygOT5mPAfEBoiCKSeVmBuu8?usp=sharing). -->
 
