@@ -12,13 +12,13 @@ author_profile: true
 
 ## Instructor, UC Riverside
   * Labor Economics (Summer 2020)
- <-- * Labor Economics (Summer 2020) [(Syllabus)](/files/Syllabus-153-S20.pdf) -->
+<!-- * Labor Economics (Summer 2020) [(Syllabus)](/files/Syllabus-153-S20.pdf) -->
 
   * Intermediate Microeconomics Theory II (Summer 2020)
-  <-- * Intermediate Microeconomics Theory II (Summer 2020) [(Syllabus)](/files/Syllabus-104B-S20.pdf) -->
+<!-- * Intermediate Microeconomics Theory II (Summer 2020) [(Syllabus)](/files/Syllabus-104B-S20.pdf) -->
     
   * Intermediate Microeconomics Theory I (Summer 2021) 
-  <-- * Intermediate Microeconomics Theory I (Summer 2021) [(Syllabus)](/files/Syllabus-104A-S21.pdf) -->
+<!-- * Intermediate Microeconomics Theory I (Summer 2021) [(Syllabus)](/files/Syllabus-104A-S21.pdf) -->
 
 ## Teaching Assistant, UC Riverside
   * Intermediate Microeconomics Theory I (Fall 2018, Summer 2019, Fall 2019, Winter 2021, Summer 2022)
