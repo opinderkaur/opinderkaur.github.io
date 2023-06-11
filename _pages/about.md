@@ -9,11 +9,14 @@ redirect_from:
 ---
 
 
-Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://economics.ucr.edu/). My research interests are in labor economics, development economics, economics of education, and health economics. 
+Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://www.ucr.edu). My research interests are in labor economics, development economics, economics of education, and health economics. 
 
-My job market paper investigates the intergenerational impact of adult learning programs on child health outcomes among the disadvantaged population.
+In the fall of 2023, I will be joining the [Department of Economics](https://arts-sciences.buffalo.edu/economics.html) at the [University at Buffalo, The State University of New York](https://www.buffalo.edu) as a Clinical Assistant Professor.
 
-I am on the job market during the 2022–2023 academic year and expect to graduate in Spring 2023.
+
+<!--My job market paper investigates the intergenerational impact of adult learning programs on child health outcomes among the disadvantaged population.--> 
+
+<!--I am on the job market during the 2022–2023 academic year and expect to graduate in Spring 2023.--> 
 
 <!--Quick links: [CV](/files/CV_Opinder_Kaur.pdf), [Job Market Paper](/files/JMP_Kaur2022.pdf)--> 
 
