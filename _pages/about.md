@@ -9,9 +9,13 @@ redirect_from:
 ---
 
 
-Welcome! I am a Ph.D. candidate in Economics at [University of California, Riverside](https://www.ucr.edu). My research interests are in labor economics, development economics, economics of education, and health economics. 
+Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). 
+My research fields are labor economics, development economics, economics of education, and health economics.
+I received a Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu) in 2023.
 
-In the fall of 2023, I will be joining the [Department of Economics](https://arts-sciences.buffalo.edu/economics.html) at the [University at Buffalo, The State University of New York](https://www.buffalo.edu) as a Clinical Assistant Professor.
+<!--Ph.D. candidate in Economics at [University of California, Riverside](https://www.ucr.edu). My research interests are in labor economics, development economics, economics of education, and health economics.-->  
+
+<!--In the fall of 2023, I will be joining the [Department of Economics](https://arts-sciences.buffalo.edu/economics.html) at the [University at Buffalo, The State University of New York](https://www.buffalo.edu) as a Clinical Assistant Professor.--> 
 
 
 <!--My job market paper investigates the intergenerational impact of adult learning programs on child health outcomes among the disadvantaged population.--> 
