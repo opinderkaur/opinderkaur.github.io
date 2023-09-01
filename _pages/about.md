@@ -10,8 +10,8 @@ redirect_from:
 
 
 Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). 
-My research fields are labor economics, development economics, economics of education, and health economics.
-I received a Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu) in 2023.
+
+My research fields are labor economics, development economics, economics of education, and health economics. I received a Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu) in 2023.
 
 <!--Ph.D. candidate in Economics at [University of California, Riverside](https://www.ucr.edu). My research interests are in labor economics, development economics, economics of education, and health economics.-->  
 
