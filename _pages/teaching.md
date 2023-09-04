@@ -9,10 +9,8 @@ author_profile: true
 
 
 ## Instructor, UB SUNY
-  * Economic Development: Theory and Policy
-  * Labor Economics
-  * Intermediate Microeconomics Theory I
-  * Intermediate Microeconomics Theory II
+  * Introduction to Microeconomics
+  * Introduction to Macroeconomics
     
 ## Instructor, UC Riverside
   * Economic Development: Theory and Policy
