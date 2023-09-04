@@ -13,7 +13,7 @@ author_profile: true
   * Labor Economics
   * Intermediate Microeconomics Theory I
   * Intermediate Microeconomics Theory II
-  * 
+    
 ## Instructor, UC Riverside
   * Economic Development: Theory and Policy
   * Labor Economics
