@@ -11,6 +11,7 @@ author_profile: true
 ## Instructor, UB SUNY
   * Introduction to Microeconomics
   * Introduction to Macroeconomics
+  * Economic Statistics and Data Analysis
     
 ## Instructor, UC Riverside
   * Economic Development: Theory and Policy
