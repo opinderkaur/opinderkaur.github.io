@@ -12,6 +12,7 @@ author_profile: true
   * Introduction to Microeconomics
   * Introduction to Macroeconomics
   * Economic Statistics and Data Analysis
+  * Money and Banking
     
 ## Instructor, UC Riverside
   * Economic Development: Theory and Policy
