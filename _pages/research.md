@@ -12,7 +12,9 @@ author_profile: true
 
 {% include base_path %}
 
-# Working Papers
+# Publications
+
+## Working Papers
 
 **Intergenerational health effects of adult learning programs: Evidence from India**
 
