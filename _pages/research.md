@@ -14,6 +14,9 @@ author_profile: true
 
 ## Publications
 
+Majid, M. F., **Kaur, O.**, & Deolalikar, A. B. (2024). "[Beyond the biological prime: Deciphering the link between child survival and maternal age in India](https://www.sciencedirect.com/science/article/pii/S1570677X24000807)". Economics & Human Biology, 55, 101428.
+
+
 ## Working Papers
 
 **"[Does signaling college-level human capital matter? An experimental study in India](https://escholarship.org/uc/item/67d0d1kv)"** resubmitted to Economic Development and Cultural Change (with [Sarojini Hirshleifer](https://profiles.ucr.edu/app/home/profile/shirsh) and [Deepshikha Batheja](https://www.deepshikhabatheja.com))
