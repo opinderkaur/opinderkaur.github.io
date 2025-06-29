@@ -16,7 +16,7 @@ author_profile: true
 
 ## Working Papers
 
-**[Does signaling college-level human capital matter? An experimental study in India](https://escholarship.org/uc/item/67d0d1kv)** resubmitted to Economic Development and Cultural Change (with [Sarojini Hirshleifer](https://profiles.ucr.edu/app/home/profile/shirsh) and [Deepshikha Batheja](https://www.deepshikhabatheja.com))
+**"[Does signaling college-level human capital matter? An experimental study in India]"(https://escholarship.org/uc/item/67d0d1kv)** resubmitted to Economic Development and Cultural Change (with [Sarojini Hirshleifer](https://profiles.ucr.edu/app/home/profile/shirsh) and [Deepshikha Batheja](https://www.deepshikhabatheja.com))
 *Funded by: J-PAL Post-Primary Education Fund*
 
 
