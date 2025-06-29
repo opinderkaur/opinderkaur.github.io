@@ -14,7 +14,7 @@ author_profile: true
 
 ## Publications
 
-Majid, M. F., **Kaur, O.**, & Deolalikar, A. B. (2024). "[Beyond the biological prime: Deciphering the link between child survival and maternal age in India](https://www.sciencedirect.com/science/article/pii/S1570677X24000807)". Economics & Human Biology, 55, 101428.
+Majid, M. F., **Kaur, O.**, & Deolalikar, A. B. (2024). "[**Beyond the biological prime: Deciphering the link between child survival and maternal age in India**](https://www.sciencedirect.com/science/article/pii/S1570677X24000807)". Economics & Human Biology, 55, 101428.
 
 
 ## Working Papers
