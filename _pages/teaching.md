@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 
-###  Instructor, UB SUNY
+##  Instructor, UB SUNY
   * Introduction to Microeconomics
   * Introduction to Macroeconomics
   * Economic Statistics and Data Analysis
   * Money and Banking
     
-### Instructor, UC Riverside
+## Instructor, UC Riverside
   * Economic Development: Theory and Policy
   * Labor Economics
   * Intermediate Microeconomics Theory I
