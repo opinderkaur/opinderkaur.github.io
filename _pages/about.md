@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). I received my Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu), Riverside in 2023. Before pursuing my doctoral studies, I gained research and industry experience at the ASEAN-India Centre at RIS, the Department of Commerce, Ministry of Commerce & Industry, Government of India, and as an Analyst at Infosys.
 
-Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). 
+My research interests lie in applied microeconomics, with a focus on labor economics and development economics. I study intergenerational mobility, the economics of education, health and human capital formation, and the evaluation of public policies. My work employs experimental and quasi-experimental methods and is primarily situated in the context of South Asia.
 
-My research fields are labor economics, development economics, economics of education, and health economics. I received a Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu) in 2023.
+
 
 <!--Ph.D. candidate in Economics at [University of California, Riverside](https://www.ucr.edu). My research interests are in labor economics, development economics, economics of education, and health economics.-->  
 
