@@ -8,13 +8,14 @@ author_profile: true
 {% include base_path %}
 
 
-##  Instructor, UB SUNY
+##  Instructor
+### UB SUNY
   * Introduction to Microeconomics
   * Introduction to Macroeconomics
   * Economic Statistics and Data Analysis
   * Money and Banking
     
-## Instructor, UC Riverside
+### UC Riverside
   * Economic Development: Theory and Policy
   * Labor Economics
   * Intermediate Microeconomics Theory I
@@ -25,7 +26,8 @@ author_profile: true
 <!-- * Intermediate Microeconomics Theory II (Summer 2020) [(Syllabus)](/files/Syllabus-104B-S20.pdf) -->
 <!-- * Intermediate Microeconomics Theory I (Summer 2021) [(Syllabus)](/files/Syllabus-104A-S21.pdf) -->
 
-## Teaching Assistant, UC Riverside
+## Teaching Assistant
+### UC Riverside
   * Intermediate Microeconomics Theory I 
   * Introductory Econometrics 
   * Introduction to Microeconomics 
