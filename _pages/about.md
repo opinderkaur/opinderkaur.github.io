@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). I received my Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu), Riverside in 2023. Before pursuing my doctoral studies, I gained research and industry experience at the ASEAN-India Centre at RIS, the Department of Commerce, Ministry of Commerce & Industry, Government of India, and as an Analyst at Infosys.
+Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). I am research fellow at the [Global Labor Organization(GLO)](https://glabor.org). I received my Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu), Riverside in 2023. Before pursuing my doctoral studies, I gained research and industry experience at the ASEAN-India Centre at RIS, the Department of Commerce, Ministry of Commerce & Industry, Government of India, and as an Analyst at Infosys.
 
 My research interests lie in applied microeconomics, with a focus on labor economics and development economics. I study intergenerational mobility, health economics, human capital formation, and the evaluation of public policies. My work employs experimental and quasi-experimental methods and is primarily situated in the context of South Asia and North America.
 
