@@ -14,13 +14,19 @@ author_profile: true
 
 ## Publications
 
-Majid, M. F., **Kaur, O.**, & Deolalikar, A. B. (2024). "[Beyond the biological prime: Deciphering the link between child survival and maternal age in India](https://www.sciencedirect.com/science/article/pii/S1570677X24000807)". Economics & Human Biology, 55, 101428.
+Majid, M. F., Kaur, O., & Deolalikar, A. B. (2024). "[Beyond the biological prime: Deciphering the link between child survival and maternal age in India](https://www.sciencedirect.com/science/article/pii/S1570677X24000807)". _Economics & Human Biology_, 55, 101428.
+
+
+"[Does signaling college-level human capital matter? An experimental study in India](https://escholarship.org/uc/item/67d0d1kv)" _Economic Development and Cultural Change_ (2025), accepted (with Sarojini Hirshleifer and Deepshikha Batheja) 
+
+<!-- (with [Sarojini Hirshleifer](https://profiles.ucr.edu/app/home/profile/shirsh) and [Deepshikha Batheja](https://www.deepshikhabatheja.com)) -->
+
+<!-- *Funded by: J-PAL Post-Primary Education Fund* -->
+
 
 
 ## Working Papers
 
-"[Does signaling college-level human capital matter? An experimental study in India](https://escholarship.org/uc/item/67d0d1kv)" resubmitted to Economic Development and Cultural Change (with [Sarojini Hirshleifer](https://profiles.ucr.edu/app/home/profile/shirsh) and [Deepshikha Batheja](https://www.deepshikhabatheja.com)) 
-*Funded by: J-PAL Post-Primary Education Fund*
 
 
 "Intergenerational health effects of adult learning programs: Evidence from India" (draft available on request)
