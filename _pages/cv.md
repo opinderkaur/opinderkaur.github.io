@@ -10,7 +10,7 @@ author_profile: true
 
 <!-- [Curriculum Vitae](/files/CV_Opinder_Kaur.pdf) -->
 
- [Curriculum Vitae](/files/CV_Kaur_website.pdf) 
+<!--  [Curriculum Vitae](/files/CV_Kaur_website.pdf)  -->
 
 
 <!--Education-->
