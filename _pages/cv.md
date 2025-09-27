@@ -1,11 +1,22 @@
-<!--  --- -->
-<!--  layout: archive -->
-<!--  title: "" -->
-<!--  permalink: /cv/ -->
-<!--  author_profile: true -->
-<!--  redirect_from: -->
-<!--   - /resume -->
-<!--  --- -->
+  ---
+ layout: archive 
+ title: "" 
+ permalink: /cv/ 
+ author_profile: true 
+ redirect_from:
+   - /resume 
+  --- 
+
+
+---
+permalink: /
+title: ""
+excerpt: "About"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 <!-- [Curriculum Vitae](/files/CV_Opinder_Kaur.pdf) -->
 
