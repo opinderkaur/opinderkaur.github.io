@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). I am also a research fellow at the [Global Labor Organization (GLO)](https://glabor.org). I received my Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu) in 2023. I am an applied microeconomist with primary research interests in development economics, labor economics, and health economics. My research focuses on how policies and institutions shape human capital across generations, with a focus on education, health, and labor markets. 
+Welcome! 
+
+I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). I am also a research fellow at the [Global Labor Organization (GLO)](https://glabor.org). I received my Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu) in 2023. I am an applied microeconomist with primary research interests in development economics, labor economics, and health economics. My research focuses on how policies and institutions shape human capital across generations, with a focus on education, health, and labor markets. 
 
 <!--I also study the economic impacts of climate shocks, institutions, and public health challenges.-->
 
