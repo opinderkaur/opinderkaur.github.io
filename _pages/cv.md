@@ -1,11 +1,11 @@
- --- 
- layout: archive 
- title: "" 
- permalink: /cv/ 
- author_profile: true 
- redirect_from:
-  - /resume 
- --- 
+<!--  --- -->
+<!--  layout: archive -->
+<!--  title: "" -->
+<!--  permalink: /cv/ -->
+<!--  author_profile: true -->
+<!--  redirect_from: -->
+<!--   - /resume -->
+<!--  --- -->
 
 <!-- [Curriculum Vitae](/files/CV_Opinder_Kaur.pdf) -->
 
