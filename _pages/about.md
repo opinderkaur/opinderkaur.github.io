@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). I am also a research fellow at the [Global Labor Organization (GLO)](https://glabor.org). I received my Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu), Riverside in 2023. Before pursuing my doctoral studies, I gained research and industry experience at the ASEAN-India Centre at RIS, the Department of Commerce, Ministry of Commerce & Industry, Government of India, and as an Analyst at Infosys.
+Welcome! I am a Clinical Assistant Professor of Economics at the [University at Buffalo, The State University of New York](https://www.buffalo.edu). I am also a research fellow at the [Global Labor Organization (GLO)](https://glabor.org). I received my Ph.D. in Economics from the [University of California, Riverside](https://www.ucr.edu) in 2023.
 
-My research interests lie in applied microeconomics, with a focus on development economics. I study intergenerational mobility, health economics, human capital formation, and the evaluation of public policies. My work employs experimental and quasi-experimental methods and is primarily situated in the context of South Asia and North America.
+I am an applied microeconomist with primary research interests in development economics, labor economics, and health economics. My research focuses on how policies and institutions shape human capital across generations, with a focus on education, health, and labor markets. I also study the economic impacts of climate shocks, institutions, and public health challenges.
 
+<!--Before pursuing my doctoral studies, I gained research and industry experience at the ASEAN-India Centre at RIS, Ministry of Commerce & Industry (Government of India), and as an Analyst at Infosys.-->
 
+<!--My research interests lie in applied microeconomics, with a focus on development economics. I study intergenerational mobility, health economics, human capital formation, and the evaluation of public policies. My work employs experimental and quasi-experimental methods and is primarily situated in the context of South Asia and North America.-->  
+
+<!--My research agenda investigates how policies and institutions shape economic outcomes including health, education, and labor markets. My research fields are development economics, labor economics, and health economics.-->  
 
 <!--Ph.D. candidate in Economics at [University of California, Riverside](https://www.ucr.edu). My research interests are in labor economics, development economics, economics of education, and health economics.-->  
 
 <!--In the fall of 2023, I will be joining the [Department of Economics](https://arts-sciences.buffalo.edu/economics.html) at the [University at Buffalo, The State University of New York](https://www.buffalo.edu) as a Clinical Assistant Professor.--> 
-
 
 <!--My job market paper investigates the intergenerational impact of adult learning programs on child health outcomes among the disadvantaged population.--> 
 
