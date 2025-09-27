@@ -1,9 +1,9 @@
-layout: archive
-title: ""
+---
+layout: page
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+---
 
 
 <!-- [Curriculum Vitae](/files/CV_Opinder_Kaur.pdf) -->
