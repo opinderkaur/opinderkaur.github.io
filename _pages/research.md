@@ -31,7 +31,7 @@ Majid, Farhan M., Opinder Kaur, and Anil B. Deolalikar. "[Beyond the biological 
 
 "Beyond Literacy: Intergenerational Health Effects of Adult Learning in India" (draft available on request)
 
-"Teacher value-added spillovers: How far they transcend?" (draft available on request)
+"Teacher Value-Added Spillovers: How Far They Transcend?" (draft available on request)
 
 "Can Institutions Mitigate Climate Change Impacts on Childhood Immunization? Evidence from South Asia" with Farhan Majid
 
