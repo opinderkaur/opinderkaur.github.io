@@ -9,17 +9,14 @@ author_profile: true
 
 
 ##  Instructor
-### UB SUNY
-  * Introduction to Microeconomics
-  * Introduction to Macroeconomics
-  * Economic Statistics and Data Analysis
-  * Money and Banking
-    
-### UC Riverside
-  * Economic Development: Theory and Policy
-  * Labor Economics
-  * Intermediate Microeconomics Theory I
-  * Intermediate Microeconomics Theory II
+  * Introduction to Microeconomics (University at Buffalo)
+  * Introduction to Macroeconomics (University at Buffalo)
+  * Economic Statistics and Data Analysis (University at Buffalo)
+  * Money and Banking (University at Buffalo)
+  * Economic Development: Theory and Policy (UC Riverside)
+  * Labor Economics (UC Riverside)
+  * Intermediate Microeconomics Theory I (UC Riverside)
+  * Intermediate Microeconomics Theory II (UC Riverside)
     
 <!-- * Economic Development: Theory and Policy (Summer 2023) -->
 <!-- * Labor Economics (Summer 2020) [(Syllabus)](/files/Syllabus-153-S20.pdf) -->
@@ -27,11 +24,10 @@ author_profile: true
 <!-- * Intermediate Microeconomics Theory I (Summer 2021) [(Syllabus)](/files/Syllabus-104A-S21.pdf) -->
 
 ## Teaching Assistant
-### UC Riverside
-  * Intermediate Microeconomics Theory I 
-  * Introductory Econometrics 
-  * Introduction to Microeconomics 
-  * Introduction to Macroeconomics
+  * Intermediate Microeconomics Theory I (UC Riverside)
+  * Introductory Econometrics (UC Riverside)
+  * Introduction to Microeconomics (UC Riverside)
+  * Introduction to Macroeconomics (UC Riverside)
 
 <!-- ## Awards -->
 <!-- * Outstanding Teaching Assistant Award (2019) -->
