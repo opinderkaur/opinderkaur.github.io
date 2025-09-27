@@ -16,7 +16,7 @@ author_profile: true
 
 "[Does signaling college-level human capital matter? An experimental study in India](https://escholarship.org/uc/item/67d0d1kv)" _Economic Development and Cultural Change_ (2025), accepted (with Sarojini Hirshleifer and Deepshikha Batheja) 
 
-Majid, Muhammad Farhan, Opinder Kaur, and Anil B. Deolalikar. "[Beyond the biological prime: Deciphering the link between child survival and maternal age in India](https://www.sciencedirect.com/science/article/pii/S1570677X24000807)". _Economics & Human Biology_ 55 (2024): 101428.
+Majid, Farhan M., Opinder Kaur, and Anil B. Deolalikar. "[Beyond the biological prime: Deciphering the link between child survival and maternal age in India](https://www.sciencedirect.com/science/article/pii/S1570677X24000807)". _Economics & Human Biology_ 55 (2024): 101428.
 
 
 
